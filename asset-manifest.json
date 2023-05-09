@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/spider-website/static/js/main.3d5b149d.js",
+    "main.js": "/spider-website/static/js/main.87c84464.js",
     "static/js/787.27c7392e.chunk.js": "/spider-website/static/js/787.27c7392e.chunk.js",
     "index.html": "/spider-website/index.html",
-    "main.3d5b149d.js.map": "/spider-website/static/js/main.3d5b149d.js.map",
+    "main.87c84464.js.map": "/spider-website/static/js/main.87c84464.js.map",
     "787.27c7392e.chunk.js.map": "/spider-website/static/js/787.27c7392e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3d5b149d.js"
+    "static/js/main.87c84464.js"
   ]
 }
