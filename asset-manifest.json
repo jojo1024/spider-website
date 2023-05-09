@@ -1,19 +1,12 @@
 {
   "files": {
-    "main.css": "/spider-website/static/css/main.cd315f67.css",
-    "main.js": "/spider-website/static/js/main.c726d07a.js",
+    "main.js": "/spider-website/static/js/main.7e158f6a.js",
     "static/js/787.27c7392e.chunk.js": "/spider-website/static/js/787.27c7392e.chunk.js",
-    "static/media/slick.svg": "/spider-website/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/spider-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/spider-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/spider-website/index.html",
-    "static/media/slick.woff": "/spider-website/static/media/slick.295183786cd8a1389865.woff",
-    "main.cd315f67.css.map": "/spider-website/static/css/main.cd315f67.css.map",
-    "main.c726d07a.js.map": "/spider-website/static/js/main.c726d07a.js.map",
+    "main.7e158f6a.js.map": "/spider-website/static/js/main.7e158f6a.js.map",
     "787.27c7392e.chunk.js.map": "/spider-website/static/js/787.27c7392e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd315f67.css",
-    "static/js/main.c726d07a.js"
+    "static/js/main.7e158f6a.js"
   ]
 }
