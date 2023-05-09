@@ -1,7 +1,7 @@
 {
+  "homepage": "http://jojo1024.github.io/spider-website",
   "name": "spider-site",
   "version": "0.1.0",
-  "homepage": "http://localhost/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
@@ -46,6 +46,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -70,6 +72,7 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.3.3",
-    "@types/react-slick": "^0.23.10"
+    "@types/react-slick": "^0.23.10",
+    "gh-pages": "^5.0.0"
   }
 }
