@@ -186,19 +186,19 @@ function App() {
         <Header />
         <div >
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="about" element={<About />} />
-            <Route path="produits" element={<Produits />} />
-            <Route path="equipe" element={<Agent />} />
-            <Route path="blog" element={<Blog />} />
-            <Route path="galerie" element={<Galerie />} />
-            <Route path="contact" element={<Contact />} />
-            <Route path="spider-detail" element={<SpiderDetail />} />
-            <Route path="product-detail" element={<ProductDetail />} />
-            <Route path="spider-galerie-detail" element={<GalerieDetail />} />
-            <Route path="actualite" element={<Actualite />} />
-            <Route path="mise-a-jour-anterieur" element={<SpiderMiseAJour />} />
-            <Route path="*" element={<ErrorPage />} />
+            <Route path="spider-website/" element={<Home />} />
+            <Route path="spider-website/about" element={<About />} />
+            <Route path="spider-website/produits" element={<Produits />} />
+            <Route path="spider-website/equipe" element={<Agent />} />
+            <Route path="spider-website/blog" element={<Blog />} />
+            <Route path="spider-website/galerie" element={<Galerie />} />
+            <Route path="spider-website/contact" element={<Contact />} />
+            <Route path="spider-website/spider-detail" element={<SpiderDetail />} />
+            <Route path="spider-website/product-detail" element={<ProductDetail />} />
+            <Route path="spider-website/spider-galerie-detail" element={<GalerieDetail />} />
+            <Route path="spider-website/actualite" element={<Actualite />} />
+            <Route path="spider-website/mise-a-jour-anterieur" element={<SpiderMiseAJour />} />
+            <Route path="spider-website/*" element={<ErrorPage />} />
           </Routes>
         </div>
         <Footer />
